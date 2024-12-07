@@ -1,0 +1,1 @@
+# department-hibernate-hql-
